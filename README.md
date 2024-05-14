@@ -58,7 +58,7 @@ Version|Date|Comments
   - Install latest version of node  nvm install ##.##.##
   - run nvm use 14.21.3
 - from a console
-  - run npm install gulp
+  - run npm install gulp -g
 
 - Clone this repository
 - Ensure that you are at the solution folder
