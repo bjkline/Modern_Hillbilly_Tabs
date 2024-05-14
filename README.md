@@ -51,10 +51,12 @@ Version|Date|Comments
 ## Minimal Path to Awesome
 
 - Download nvm manager
-- Remove all prior versions of Node
-- Install node version 14.21.3   nvm install 14.21.3
-- Install latest version of node  nvm install ##.##.##
-- run nvm use 14.21.3
+  - Remove all prior versions of Node
+  - Install node version 14.21.3   nvm install 14.21.3
+  - Install latest version of node  nvm install ##.##.##
+  - run nvm use 14.21.3
+- from a console
+  - run npm install gulp
 
 - Clone this repository
 - Ensure that you are at the solution folder
