@@ -39,8 +39,10 @@ folder name | Author details (name, company, twitter alias with link)
 
 Version|Date|Comments
 -------|----|--------
+1.2|May 14, 2024|Updated instructions
 1.1|March 10, 2021|Update comment
 1.0|January 29, 2021|Initial release
+
 
 ## Disclaimer
 
