@@ -77,9 +77,10 @@ export default class ModernHillbillyTabsWebPart extends BaseClientSideWebPart<IM
       }
   }
 
-  protected get dataVersion(): Version {
-    return Version.parse('1.0');
-  }
+  //Not needed for SPfx Framework 1.11
+  // protected get dataVersion(): Version {
+  //   return Version.parse('1.0');
+  // }
 
   private getZones(): Array<[string,string]> {
     const zones = new Array<[string,string]>();
